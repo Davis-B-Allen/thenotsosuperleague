@@ -9,7 +9,7 @@ weight: 3
 header_menu: true
 ---
 
-The (Not So) Super League is comprised of ~~twelve~~ six founding member clubs that will participate year upon year in the competition, with no risk of relegation. Colossal sums of cash will be distributed to these clubs as a reward for their vision and bravery in founding the league.
+The (Not So) Super League is comprised of ~~twelve~~ ~~six~~ three founding member clubs that will participate year upon year in the competition, with no risk of relegation. Colossal sums of cash will be distributed to these clubs as a reward for their vision and bravery in founding the league.
 
 Three additional teams will be invited to join on as founding members, assuming three more teams can be convinced to sign on to this train wreck.
 

@@ -13,10 +13,10 @@ The (Not So) Super League is home to ~~all~~ ~~some~~ a few of the best clubs fr
 
 - ##### REAL MADRID C.F.
 - ##### FC BARCELONA
-- ##### ATLÉTICO MADRID
+- ##### ~~ATLÉTICO MADRID~~
 - ##### JUVENTUS F.C.
-- ##### INTER MILAN
-- ##### A.C. MILAN
+- ##### ~~INTER MILAN~~
+- ##### ~~A.C. MILAN~~
 - ##### ~~MANCHESTER UNITED F.C.~~
 - ##### ~~MANCHESTER CITY F.C.~~
 - ##### ~~LIVERPOOL F.C.~~
